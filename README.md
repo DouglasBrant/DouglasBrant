@@ -1,16 +1,16 @@
-### Hi there 👋
+#  Hi there 👋
+## Public Information
 
-<!--
-**DouglasBrant/DouglasBrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Douglas Brant.    
+I am from Brasília, DF, 
+💻I’m currently learning front-end with **Javascript**, **Bootstrap**, **Dart**;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖Detailed information
+-   **Name**: DouglasBrant
+-   **Age**: 20
+-   **Living in**: Brasília, Brazil
+-   **Stack**: Html -CSS - Bootstrap - Dart
+-   **University**: Attending  the 4rd Semester Studying  IT  at Universidade Paulista UNIP.
+## 📫 How to reach me
+<a>**E-mail**: brantdouglas255@gmail.com</a>
+<a>**LinkedIn**:</a>
