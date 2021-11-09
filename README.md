@@ -9,7 +9,7 @@ I am from Brasília, DF,
 -   **Name**: DouglasBrant
 -   **Age**: 20
 -   **Living in**: Brasília, Brazil
--   **Stack**: Html -CSS - Bootstrap - Dart
+-   **Stack**: Html -CSS - Bootstrap 
 -   **University**: Attending  the 4rd Semester Studying  IT  at Universidade Paulista UNIP.
 ## 📫 How to reach me
 <a>**E-mail**: brantdouglas255@gmail.com</a>
