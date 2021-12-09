@@ -16,7 +16,7 @@ I am from Brasília, DF,
 -   <a><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
 -   <a><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit"></a>
 -   
--   **University**: Attending  the 4rd Semester Studying  IT  at Universidade Paulista UNIP.
+-   <h2>University</h2>: Attending  the 4rd Semester Studying  IT  at Universidade Paulista UNIP.
 -   
 ## 📫 How to reach me
 <a>**E-mail**: douglasbrantt@gmail.com</a>
