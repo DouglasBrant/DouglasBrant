@@ -16,7 +16,8 @@ I am from Brasília, DF,
 -   <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
 -   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit"></a>
   
-  <h2>University</h2>: Attending  the 4rd Semester Studying  IT  at Universidade Paulista UNIP.
+  <h2>University</h2>
+- Attending  the 4rd Semester Studying  IT  at Universidade Paulista UNIP.
  
 ## 📫 How to reach me
 <a href="https://www.linkedin.com/in/douglas-brant-487403224/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitet"></a>
