@@ -6,7 +6,7 @@ I am from Brasília, DF,
 💻I’m currently learning front-end with **Javascript**, **Bootstrap**, **Dart**;
 
 ## 📖Detailed information
--   **Name**: DouglasBrant
+-   **Name**: Douglas Brant
 -   **Age**: 20
 -   **Living in**: Brasília, Brazil
   <h2>Stack</h2>
