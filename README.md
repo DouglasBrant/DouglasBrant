@@ -7,7 +7,7 @@ I am from Brasília, DF,
 
 ## 📖Detailed information
 -   **Name**: Douglas Brant
--   **Age**: 20
+-   **Age**: 21
 -   **Living in**: Brasília, Brazil
   <h2>Stack</h2>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
