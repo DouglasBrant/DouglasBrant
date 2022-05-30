@@ -29,6 +29,7 @@ Sou de Brasília, DF, Atualmente estou aprendendo front-end com Javascript, Boot
   <img align="center" alt="Douglas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Douglas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Douglas-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Douglas-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
 
  <img align="right" alt="Douglas-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/69260468?s=400&u=2f6df366bbeb1906983f1dc79e39c500e93c4697&v=4">
 </div>
