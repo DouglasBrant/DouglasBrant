@@ -7,7 +7,7 @@
 ## Informação Pública
 
 Meu nome é Douglas Brant.
-Sou de Brasília, DF, Atualmente estou aprendendo front-end com Javascript, Bootstrap, React, Html, Css/ Laravel.
+Sou de Brasília, DF, Atualmente estou aprendendo front-end com Javascript, Bootstrap, React, Html, Css e tenho conhecimento em Laravel.
 
 
 ## 📖Informações detalhadas
