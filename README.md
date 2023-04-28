@@ -12,7 +12,7 @@ Sou de Brasília, DF, Atualmente estou aprendendo front-end com Javascript, Boot
 
 ## 📖Informações detalhadas
 - **Nome**: Douglas Brant
-- **Idade**: 21
+- **Idade**: 22
 - **Morando**: Brasília, Brasil
 - **Universidade**: Análise e Desenvolvimento de Sistemas - Universidade Paulista UNIP.
 <div align="center">
